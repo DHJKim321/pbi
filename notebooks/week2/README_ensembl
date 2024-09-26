@@ -1,0 +1,683 @@
+#tax_id	ncbi_release	ncbi_assembly	ensembl_release	ensembl_assembly	date_compared
+3486	Humulus lupulus Annotation Release 100	drHumLupu1.1	Rapid 2024-02	drHumLupu1.1	
+3517	Alnus glutinosa Annotation Release 100	dhAlnGlut1.1	Rapid 2024-02	dhAlnGlut1.1	
+3691	Populus nigra Annotation Release 100	ddPopNigr1.1	Rapid 2024-02	ddPopNigr1.1	
+3986	Mercurialis annua Annotation Release 101	ddMerAnnu1.2	Rapid 2023-09	ddMerAnnu1.2	
+6063	Halichondria panicea Annotation Release 100	odHalPani1.1	Rapid 2024-02	odHalPani1.1	
+6087	Hydra vulgaris Annotation Release 103	Hydra_105_v3	Rapid 2022-07	Hydra_105_v3	
+6105	Actinia tenebrosa Annotation Release 100	ASM960242v1	Rapid 2022-03	ASM960242v1	
+6148	0	 	Rapid 2023-10	ASM1229514v1	
+6454	Haliotis rufescens Annotation Release 101	xgHalRufe1.0.p	Rapid 2022-07	xgHalRufe1.0.p	
+6465	Patella vulgata Annotation Release 100	xgPatVulg1.1	Rapid 2022-08	xgPatVulg1.1	20221024
+6500	Aplysia californica Annotation Release 102	AplCal3.0	Rapid 2021-12	AplCal3.0	
+6526	Biomphalaria glabrata Annotation Release 101	xgBioGlab47.1	Rapid 2023-07	xgBioGlab47.1	
+6549	Mytilus californianus Annotation Release 100	xbMytCali1.0.p	Rapid 2024-01	xbMytCali1.0.p	
+6565	Crassostrea virginica Annotation Release 100	C_virginica-3.0	Rapid C_virginica_3.0	C_virginica-3.0	
+6573	Mizuhopecten yessoensis Annotation Release 100	ASM211388v2	Rapid 2022-03	ASM211388v2	
+6579	Pecten maximus Annotation Release 100	xPecMax1.1	Rapid 2023-08	xPecMax1.1	
+6596	Mercenaria mercenaria Annotation Release 100	ASM1480567v1.1	Rapid 2022-03	ASM1480567v1.1	20220509
+6604	Mya arenaria Annotation Release 100	ASM2691426v1	Rapid 2023-04	ASM2691426v1	
+6669	Daphnia pulex Annotation Release 100	ASM2113471v1	Rapid 2022-07	ASM2113471v1	
+6687	Penaeus monodon Annotation Release 100	NSTDA_Pmon_1	Rapid NSTDA_Pmon_1	NSTDA_Pmon_1	
+6689	Penaeus vannamei Annotation Release 100	ASM378908v1	Rapid 2022-04	ASM378908v1	
+6706	Homarus americanus Annotation Release 100	GMGI_Hamer_2.0	Rapid 2022-03	GMGI_Hamer_2.0	
+6728	Procambarus clarkii Annotation Release 100	ASM2042438v2	Rapid 2022-03	ASM2042438v2	
+6850	Limulus polyphemus Annotation Release 101	Limulus_polyphemus-2.1.2	Rapid 2022-01	Limulus_polyphemus-2.1.2	
+6941	Rhipicephalus microplus Annotation Release 100	BIME_Rmic_1.3	Rapid GCA013339725v1	BIME_Rmic_1.3	
+6945	Ixodes scapularis Annotation Release 103	ASM1692078v2	Rapid ASM1692078v2	ASM1692078v2	
+6956	Dermatophagoides pteronyssinus Annotation Release 100	ASM190122v2	Rapid ASM190122v2	ASM190122v2	
+7009	Schistocerca americana Annotation Release 100	iqSchAmer2.1	Rapid 2022-10	iqSchAmer2.1	
+7010	Schistocerca gregaria Annotation Release 100	iqSchGreg1.2	Rapid 2023-03	iqSchGreg1.2	
+7011	Schistocerca nitens Annotation Release 100	iqSchNite1.1	Rapid 2023-03	iqSchNite1.1	
+7029	Acyrthosiphon pisum Annotation Release 103	pea_aphid_22Mar2018_4r6ur	Rapid 2022-10	pea_aphid_22Mar2018_4r6ur_v2	
+7048	Sitophilus oryzae Annotation Release 100	Soryzae_2.0	Rapid 2022-11	Soryzae_2.0	
+7092	Bombyx mandarina Annotation Release 100	ASM398793v1	Rapid 2022-07	ASM398793v1	
+7111	Trichoplusia ni Annotation Release 100	tn1	Rapid 2022-08	tn1	
+7113	Helicoverpa zea Annotation Release 100	ilHelZeax1.1	Rapid 2023-02	ilHelZeax1.1	
+7116	Pieris brassicae Annotation Release 100	ilPieBrab1.1	Rapid 2021-05	ilPieBrab1.1	
+7130	Manduca sexta Annotation Release 102	JHU_Msex_v1.0	Rapid 2022-08	JHU_Msex_v1.0	
+7176	Culex quinquefasciatus Annotation Release 100	VPISU_Cqui_1.0_pri_paternal	Rapid VPISU_Cqui_1.0_pri_paternal	VPISU_Cqui_1.0_pri_paternal	
+7200	Lutzomyia longipalpis Annotation Release 100	ASM2433408v1	Rapid ASM2433408v1	ASM2433408v1	
+7213	Ceratitis capitata Annotation Release 103	Ccap_2.1	Rapid Ccap_2.0	Ccap_2.1	
+7217	Drosophila ananassae Annotation Release 102	ASM1763931v2	Rapid 2023-02	ASM1763931v2	
+7220	Drosophila erecta Annotation Release 101	DereRS2	Rapid 2023-08	DereRS2	
+7222	Drosophila grimshawi Annotation Release 103	ASM1815329v1	Rapid 2023-08	ASM1815329v1	
+7224	Drosophila hydei Annotation Release 101	DhydRS2	Rapid 2023-02	DhydRS2	
+7226	Drosophila mauritiana Annotation Release 100	ASM438214v1	Rapid 2023-02	ASM438214v1	
+7227	6.54	Release 6 plus ISO1 MT	112	Release 6 plus ISO1 MT	
+7229	Drosophila miranda Annotation Release 102	D.miranda_PacBio2.1	Rapid 2023-02	D.miranda_PacBio2.1	
+7230	Drosophila mojavensis Annotation Release 102	ASM1815372v1	Rapid 2023-08	ASM1815372v1	
+7232	Drosophila navojoa Annotation Release 101	UFRJ_Dnav_4.2	Rapid 2023-02	UFRJ_Dnav_4.2	
+7234	Drosophila persimilis Annotation Release 101	DperRS2	Rapid 2023-08	DperRS2	
+7237	Drosophila pseudoobscura Annotation Release 104	UCI_Dpse_MV25	Rapid 2023-03	UCI_Dpse_MV25	
+7238	Drosophila sechellia Annotation Release 101	ASM438219v1	Rapid 2023-08	ASM438219v2	
+7240	Drosophila simulans Annotation Release 103	Prin_Dsim_3.1	Rapid 2023-02	Prin_Dsim_3.1	
+7241	Drosophila subobscura Annotation Release 100	UCBerk_Dsub_1.0	Rapid 2023-02	UCBerk_Dsub_1.0	
+7243	Drosophila teissieri Annotation Release 100	Prin_Dtei_1.1	Rapid 2023-02	Prin_Dtei_1.1	
+7244	Drosophila virilis Annotation Release 103	DvirRS2	Rapid 2023-08	DvirRS2	
+7245	Drosophila yakuba Annotation Release 102	Prin_Dyak_Tai18E2_2.1	Rapid 2023-03	Prin_Dyak_Tai18E2_2.1	
+7260	Drosophila willistoni Annotation Release 102	UCI_dwil_1.1	Rapid 2023-02	UCI_dwil_1.1	
+7263	Drosophila arizonae Annotation Release 100	ASM165402v1	Rapid 2023-02	ASM165402v1	
+7266	Drosophila guanche Annotation Release 100	DGUA_6	Rapid 2023-02	DGUA_6	
+7282	Drosophila obscura Annotation Release 101	ASM1815110v1	Rapid 2023-02	ASM1815110v1	
+7291	Drosophila albomicans Annotation Release 101	ASM965048v2	Rapid 2023-02	ASM965048v2	
+7373	Calliphora vicina Annotation Release 100	idCalVici1.1	Rapid 2023-10	idCalVici1.1	
+7375	Lucilia cuprina Annotation Release 101	ASM2204524v1	Rapid 2022-11	ASM2204524v1	
+7445	Vespa crabro Annotation Release 100	iyVesCrab1.2	Rapid 2022-03	iyVesCrab1.2	
+7454	Vespula vulgaris Annotation Release 100	iyVesVulg1.1	Rapid 2021-11	iyVesVulg1.1	
+7462	Apis dorsata Annotation Release 101	Apis dorsata 1.3	Rapid 2022-06	Apis dorsata 1.3	
+7463	Apis florea Annotation Release 102	Aflo_1.1	Rapid 2022-06	Aflo_1.1	
+7493	Trichogramma pretiosum Annotation Release 101	Tpre_2.0	Rapid Tpre_2.0	Tpre_2.0	
+7515	Ctenocephalides felis Annotation Release 100	ASM342690v1	Rapid 2023-08	ASM342690v1	
+7539	Leptinotarsa decemlineata Annotation Release 100	Ldec_2.0	Rapid 2021-12	Ldec_2.0	
+7574	Lingula anatina Annotation Release 101	LinAna2.0	Rapid 2022-03	LinAna2.0	
+7604	Asterias rubens Annotation Release 100	eAstRub1.3	Rapid 2020-11	eAstRub1.3	
+7653	Lytechinus pictus Annotation Release 100	UCSD_Lpic_2.1	Rapid 2023-08	UCSD_Lpic_2.1	
+7654	Lytechinus variegatus Annotation Release 100	Lvar_3.0	Rapid 2021-12	Lvar_3.0	
+7719	Ciona intestinalis Annotation Release 101	KH	77	KH	20141011
+7757	Petromyzon marinus Annotation Release 100	kPetMar1.pri	Rapid 2022-06	kPetMar1.pri	
+7782	Leucoraja erinacea Annotation Release 100	Leri_hhj_1	Rapid 2024-05	Leri_hhj_1	
+7868	Callorhinchus milii Annotation Release 100	Callorhinchus_milii-6.1.3	100	Callorhinchus_milii-6.1.3	20200504
+7897	Latimeria chalumnae Annotation Release 101	LatCha1	111	LatCha1	
+7913	Polyodon spathula Annotation Release 100	ASM1765450v1	Rapid 2023-11	ASM1765450v1	
+7918	Lepisosteus oculatus Annotation Release 101	LepOcu1	112	LepOcu1	
+7936	Anguilla anguilla Annotation Release 100	fAngAng1.pri	Rapid 2020-08	fAngAng1.pri	
+7937	0	 	Rapid 2024-02	ASM2516954v1	
+7938	Anguilla rostrata Annotation Release 100	ASM1855537v3	Rapid 2024-06	ASM1855537v3	
+7950	Clupea harengus Annotation Release 102	Ch_v2.0.2	112	Ch_v2.0.2	
+7955	Danio rerio Annotation Release 107	GRCz11	112	GRCz11	
+7957	Carassius auratus Annotation Release 100	ASM336829v1	112	ASM336829v1	
+7962	Cyprinus carpio Annotation Release 100	common carp genome	100	common carp genome	20200505
+7994	Astyanax mexicanus Annotation Release 103	AstMex3_surface	Rapid 2022-07	AstMex3_surface	
+7998	Ictalurus punctatus Annotation Release 102	Coco_2.0	Rapid 2024-05	Coco_2.0	
+8005	Electrophorus electricus Annotation Release 101	fEleEle1.pri	112	fEleEle1.pri	
+8010	Esox lucius Annotation Release 104	fEsoLuc1.pri	112	fEsoLuc1.pri	
+8018	Oncorhynchus keta Annotation Release 101	Oket_V2	Rapid 2022-12	Oket_V2	
+8019	Oncorhynchus kisutch Annotation Release 101	Okis_V2	112	Okis_V2	
+8022	Oncorhynchus mykiss Annotation Release 101	USDA_OmykA_1.1	112	USDA_OmykA_1.1	
+8023	Oncorhynchus nerka Annotation Release 100	Oner_1.0	Rapid 2020-06	Oner_1.0	
+8030	Salmo salar Annotation Release 102	Ssal_v3.1	112	Ssal_v3.1	
+8032	Salmo trutta Annotation Release 100	fSalTru1.1	112	fSalTru1.1	
+8038	Salvelinus fontinalis Annotation Release 100	ASM2944872v1	Rapid 2024-04	ASM2944872v1	
+8040	Salvelinus namaycush Annotation Release 100	SaNama_1.0	Rapid 2022-10	SaNama_1.0	
+8049	Gadus morhua Annotation Release 100	gadMor3.0	112	gadMor3.0	
+8078	Fundulus heteroclitus Annotation Release 102	MU-UCD_Fhet_4.1	Rapid 2024-06	MU-UCD_Fhet_4.1	
+8081	Poecilia reticulata Annotation Release 101	Guppy_female_1.0+MT	112	Guppy_female_1.0+MT	
+8083	Xiphophorus maculatus Annotation Release 102	X_maculatus-5.0-male	112	X_maculatus-5.0-male	
+8090	Oryzias latipes Annotation Release 103	ASM223467v1	Rapid 2022-04	ASM223467v1	
+8103	Cyclopterus lumpus Annotation Release 100	fCycLum1.pri	112	fCycLum1.pri	
+8128	Oreochromis niloticus Annotation Release 104	O_niloticus_UMD_NMBU	112	O_niloticus_UMD_NMBU	
+8153	Haplochromis burtoni Annotation Release 101	AstBur1.0	100	AstBur1.0	20200506
+8154	Astatotilapia calliptera Annotation Release 100	fAstCal1.2	105	fAstCal1.2	20211222
+8168	Perca fluviatilis Annotation Release 100	GENO_Pfluv_1.0	Rapid 2024-04	GENO_Pfluv_1.0	
+8175	Sparus aurata Annotation Release 100	fSpaAur1.1	112	fSpaAur1.1	
+8177	Acanthopagrus latus Annotation Release 100	fAcaLat1.1	Rapid 2022-03	fAcaLat1.1	
+8187	Lates calcarifer Annotation Release 101	TLL_Latcal_v3	Rapid 2024-02	TLL_Latcal_v3	
+8218	Gymnodraco acuticeps Annotation Release 100	fGymAcu1.1	Rapid 2020-05	fGymAcu1.1	
+8236	Thunnus albacares Annotation Release 100	fThuAlb1.1	Rapid 2023-01	fThuAlb1.1	
+8237	Thunnus thynnus Annotation Release 100	fThuThy2.1	Rapid 2024-06	fThuThy2.1	
+8238	0	 	Rapid 2020-05	tuna2	
+8240	Thunnus maccoyii Annotation Release 100	fThuMac1.1	Rapid 2024-03	fThuMac1.1	
+8245	Xiphias gladius Annotation Release 100	ASM1685928v1	Rapid 2024-02	ASM1685928v1	
+8262	Pleuronectes platessa Annotation Release 100	fPlePla1.1	Rapid 2023-07	fPlePla1.1	
+8267	Hippoglossus hippoglossus Annotation Release 100	fHipHip1.pri	Rapid 2022-03	fHipHip1.pri	
+8355	Xenopus laevis Annotation Release 101	Xenopus_laevis_v10.1	Rapid 2022-01	Xenopus_laevis_v10.1	
+8364	Xenopus tropicalis Annotation Release 104	UCB_Xtro_10.0	112	UCB_Xtro_10.0	
+8384	Bufo bufo Annotation Release 100	aBufBuf1.1	Rapid 2022-05	aBufBuf1.1	
+8407	Rana temporaria Annotation Release 100	aRanTem1.1	Rapid 2022-06	aRanTem1.1	
+8467	Caretta caretta Annotation Release 100	GSC_CCare_1.0	Rapid 2022-09	GSC_CCare_1.0	
+8469	Chelonia mydas Annotation Release 103	rCheMyd1.pri.v2	Rapid 2023-08	rCheMyd1.pri.v2	
+8478	Chrysemys picta bellii Annotation Release 102	Chrysemys_picta_bellii-3.0.3	100	Chrysemys_picta_bellii-3.0.3	20200505
+8496	Alligator mississippiensis Annotation Release 103	rAllMis1	Rapid 2024-03	rAllMis1	
+8502	Crocodylus porosus Annotation Release 100	CroPor_comp1	112	CroPor_comp1	
+8524	Zootoca vivipara Annotation Release 100	UG_Zviv_1	Rapid 2020-05	UG_Zviv_1	
+8663	Notechis scutatus Annotation Release 100	TS10Xv2-PRI	112	TS10Xv2-PRI	
+8673	Pseudonaja textilis Annotation Release 100	EBS10Xv2-PRI	112	EBS10Xv2-PRI	
+8790	Dromaius novaehollandiae Annotation Release 100	droNov1	100	droNov1	20200505
+8795	Rhea pennata Annotation Release 100	bPtePen1.pri	Rapid 2024-05	bPtePen1.pri	
+8801	Struthio camelus Annotation Release 100	ASM69896v1	112	ASM69896v1	
+8839	Anas platyrhynchos Annotation Release 104	ZJU1.0	Rapid 2022-07	ZJU1.0	
+8845	Anser cygnoides Annotation Release 100	AnsCyg_PRJNA183603_v1.0	Rapid 2020-07	AnsCyg_PRJNA183603_v1.0	20210927
+8868	Cygnus atratus Annotation Release 100	Cygnus_atratus_primary_v1.0	Rapid 2020-08	Cygnus_atratus_primary_v1.0	20210928
+8869	Cygnus olor Annotation Release 100	bCygOlo1.pri.v2	Rapid 2021-09	bCygOlo1.pri.v2	
+8884	Oxyura jamaicensis Annotation Release 100	BPBGC_Ojam_1.0	Rapid 2023-10	BPBGC_Ojam_1.0	
+8895	Apus apus Annotation Release 100	bApuApu2.pri.cur	Rapid 2023-10	bApuApu2.pri.cur	
+8954	Falco peregrinus Annotation Release 103	bFalPer1.pri	Rapid 2023-09	bFalPer1.pri	
+8996	Numida meleagris Annotation Release 100	NumMel1.0	112	NumMel1.0	
+9031	Gallus gallus Annotation Release 106	bGalGal1.mat.broiler.GRCg7b	112	bGalGal1.mat.broiler.GRCg7b	
+9054	Phasianus colchicus Annotation Release 100	ASM414374v1	112	ASM414374v1	
+9103	Meleagris gallopavo Annotation Release 103	Turkey_5.1	112	Turkey_5.1	
+9117	Grus americana Annotation Release 100	bGruAme1.mat	Rapid 2023-07	bGruAme1.mat	
+9135	Serinus canaria Annotation Release 104	serCan2020	Rapid 2023-09	serCan2020	
+9157	Parus major Annotation Release 102	Parus_major1.1	112	Parus_major1.1	
+9244	Calypte anna Annotation Release 101	bCalAnn1_v1.p	Rapid 2023-08	bCalAnn1_v1.p	
+9258	Ornithorhynchus anatinus Annotation Release 104	mOrnAna1.p.v1	100	mOrnAna1.p.v1	20200505
+9305	Sarcophilus harrisii Annotation Release 103	mSarHar1.11	112	mSarHar1.11	
+9361	Dasypus novemcinctus Annotation Release 102	Dasnov3.0	110	Dasnov3.0	
+9417	Artibeus jamaicensis Annotation Release 100	WHU_Ajam_v2	Rapid 2020-10	WHU_Ajam_v2	20210927
+9460	0	 	Rapid 2020-10	CheMed_v1_BIUU	
+9470	Nycticebus coucang Annotation Release 100	mNycCou1.pri	Rapid 2023-03	mNycCou1.pri	
+9483	Callithrix jacchus Annotation Release 104	Callithrix jacchus-3.2	91	Callithrix jacchus-3.2	20171216
+9515	Sapajus apella Annotation Release 100	GSC_monkey_1.0	Rapid 2020-09	GSC_monkey_1.0	
+9531	Cercocebus atys Annotation Release 100	Caty_1.0	112	Caty_1.0	
+9541	Macaca fascicularis Annotation Release 101	Macaca_fascicularis_5.0	100	Macaca_fascicularis_5.0	20200505
+9544	Macaca mulatta Annotation Release 103	Mmul_10	112	Mmul_10	
+9545	Macaca nemestrina Annotation Release 101	Mnem_1.0	112	Mnem_1.0	
+9555	Papio anubis Annotation Release 104	Panubis1.0	112	Panubis1.0	
+9565	Theropithecus gelada Annotation Release 100	Tgel_1.0	112	Tgel_1.0	
+9568	Mandrillus leucophaeus Annotation Release 100	Mleu.le_1.0	112	Mleu.le_1.0	
+9595	Gorilla gorilla gorilla Annotation Release 101	gorGor4	97	gorGor4	20190707
+9597	Pan paniscus Annotation Release 103	panpan1.1	100	panpan1.1	20200506
+9598	Pan troglodytes Annotation Release 104	Pan_tro 3.0	91	Pan_tro 3.0	20171218
+9601	Pongo abelii Annotation Release 103	Susie_PABv2	105	Susie_PABv2	20211222
+9606	Homo sapiens Annotation Release 110	GRCh38.p14	112	GRCh38.p14	
+9615	Canis lupus familiaris Annotation Release 106	ROS_Cfam_1.0	105	ROS_Cfam_1.0	20211222
+9627	Vulpes vulpes Annotation Release 100	VulVul2.2	112	VulVul2.2	
+9644	Ursus arctos Annotation Release 101	ASM358476v2	Rapid 2020-05	ASM358476v1	20211018
+9646	Ailuropoda melanoleuca Annotation Release 103	ASM200744v2	112	ASM200744v2	
+9657	Lutra lutra Annotation Release 100	mLutLut1.2	Rapid 2023-08	mLutLut1.2	
+9669	Mustela putorius furo Annotation Release 101	MusPutFur1.0	100	MusPutFur1.0	20200505
+9685	Felis catus Annotation Release 105	F.catus_Fca126_mat1.0	Rapid 2021-08	F.catus_Fca126_mat1.0	
+9689	Panthera leo Annotation Release 100	P.leo_Ple1_pat1.1	Rapid 2021-09	P.leo_Ple1_pat1.1	
+9691	Panthera pardus Annotation Release 100	PanPar1.0	100	PanPar1.0	20200506
+9694	Panthera tigris Annotation Release 101	PanTig1.0	104	PanTig1.0	20210810
+9704	Zalophus californianus Annotation Release 101	mZalCal1.pri.v2	Rapid 2020-08	mZalCal1.pri.v2	
+9715	Mirounga leonina Annotation Release 100	KU_Mleo_1.0	Rapid 2020-08	KU_Mleo_1.0	
+9720	Phoca vitulina Annotation Release 100	GSC_HSeal_1.0	Rapid 2020-07	GSC_HSeal_1.0	
+9731	Globicephala melas Annotation Release 100	ASM654740v1	Rapid 2020-07	ASM654740v1	
+9733	Orcinus orca Annotation Release 103	mOrcOrc1.1	Rapid 2022-07	mOrcOrc1.1	
+9739	Tursiops truncatus Annotation Release 102	mTurTru1.mat.Y	Rapid 2020-06	mTurTru1.mat.Y	
+9749	Delphinapterus leucas Annotation Release 101	ASM228892v3	100	ASM228892v3	20200505
+9755	Physeter catodon Annotation Release 103	ASM283717v5	112	ASM283717v2	
+9764	Eschrichtius robustus Annotation Release 100	mEscRob2.pri	Rapid 2024-04	mEscRob2.pri	20240923
+9771	Balaenoptera musculus Annotation Release 100	mBalMus1.pri.v3	Rapid 2020-12	mBalMus1.pri.v3	
+9785	Loxodonta africana Annotation Release 103	mLoxAfr1.hap2	Rapid 2023-10	mLoxAfr1.hap2	
+9793	Equus asinus Annotation Release 101	ASM1607732v2	112	ASM1607732v2	
+9796	Equus caballus Annotation Release 103	EquCab3.0	112	EquCab3.0	
+9823	Sus scrofa Annotation Release 106	Sscrofa11.1	110	Sscrofa11.1	20220718
+9860	Cervus elaphus Annotation Release 100	mCerEla1.1	Rapid 2023-08	mCerEla1.1	
+9874	Odocoileus virginianus Annotation Release 100	Ovir.te_1.0	Rapid 2020-08	Ovir.te_1.0	
+9904	0	 	Rapid 2020-09	ARS_UOA_Gaur_1	
+9913	Bos taurus Annotation Release 107	ARS-UCD2.0	112	ARS-UCD1.3	
+9925	Capra hircus Annotation Release 102	ARS1	Rapid 2020-05	ARS1	
+9940	Ovis aries Annotation Release 105	ARS-UI_Ramb_v3.0	Rapid 2021-02	ARS-UI_Ramb_v2.0	
+9970	0	 	Rapid 2020-06	synceruscaffer	
+9986	Oryctolagus cuniculus Annotation Release 102	OryCun2.0	100	OryCun2.0	20200505
+9994	Marmota marmota marmota Annotation Release 100	marMar2.1	100	marMar2.1	20200505
+9995	Marmota monax Annotation Release 101	Marmota_monax_Labrador192_F-V1.1	Rapid 2023-10	Marmota_monax_Labrador192_F-V1.1	
+9999	Urocitellus parryii Annotation Release 100	ASM342692v1	112	ASM342692v1	
+10020	Dipodomys ordii Annotation Release 100	Dord_2.0	112	Dord_2.0	
+10029	Cricetulus griseus Annotation Release 104	CriGri-PICRH-1.0	112	CriGri-PICRH-1.0	
+10036	Mesocricetus auratus Annotation Release 103	BCM_Maur_2.0	Rapid 2021-10	BCM_Maur_2.0	
+10047	Meriones unguiculatus Annotation Release 101	Bangor_MerUng_6.1	Rapid 2023-11	Bangor_MerUng_6.1	
+10089	Mus caroli Annotation Release 101	CAROLI_EIJ_v1.1	112	CAROLI_EIJ_v1.1	
+10090	Mus musculus Annotation Release 109	GRCm39	112	GRCm39	
+10093	Mus pahari Annotation Release 101	PAHARI_EIJ_v1.1	112	PAHARI_EIJ_v1.1	
+10096	0	 	Rapid 2023-06	SPRET_EiJ_v3	
+10116	Rattus norvegicus Annotation Release 109	GRCr8	Rapid 2024-03	GRCr8	
+10141	Cavia porcellus Annotation Release 103	Cavpor3.0	111	Cavpor3.0	
+10160	Octodon degus Annotation Release 102	OctDeg1.0	112	OctDeg1.0	
+10181	Heterocephalus glaber Annotation Release 102	HetGla_female_1.0	100	HetGla_female_1.0	20200505
+10224	Saccoglossus kowalevskii Annotation Release 101	Skow_1.1	Rapid Skow_1.1	Skow_1.1	
+13013	Clarias gariepinus Annotation Release 100	CGAR_prim_01v2	Rapid 2024-02	CGAR_prim_01v2	
+13037	Danaus plexippus Annotation Release 100	Dplex_v4	Rapid 2022-09	Dplex_v4	
+13093	Hydractinia symbiolongicarpus Annotation Release 100	HSymV2.1	Rapid 2023-08	HSymV2.1	
+13146	Melopsittacus undulatus Annotation Release 104	bMelUnd1.mat.Z	112	bMelUnd1.mat.Z	
+13164	Myzus persicae Annotation Release 100	MPER_G0061.0	Rapid 2022-07	MPER_G0061.0	
+13191	Pectinophora gossypiella Annotation Release 100	ilPecGoss1.1	Rapid 2022-11	ilPecGoss1.1	
+13397	Carcharodon carcharias Annotation Release 100	sCarCar2.pri	Rapid 2021-10	sCarCar2.pri	
+13489	Dicentrarchus labrax Annotation Release 100	dlabrax2021	112	dlabrax2021	
+13616	Monodelphis domestica Annotation Release 104	mMonDom1.pri	Rapid 2023-08	mMonDom1.pri	
+13735	Pelodiscus sinensis Annotation Release 102	PelSin_1.0	112	PelSin_1.0	
+23211	Pyrus communis Annotation Release 100	drPyrComm1.1	Rapid 2024-02	drPyrComm1.1	20240924
+27405	Penaeus japonicus Annotation Release 100	Mj_TUMSAT_v1.0	Rapid 2022-03	Mj_TUMSAT_v1.0	
+27406	Cherax quadricarinatus Annotation Release 100	ASM2687515v2	Rapid 2023-08	ASM2687515v2	
+27457	Bactrocera dorsalis Annotation Release 103	ASM2337382v1	Rapid 2023-03	ASM2337382v1	
+27606	Eubalaena glacialis Annotation Release 100	mEubGla1.1.hap2.+ XY	Rapid 2024-04	mEubGla1.1.hap2.+ XY	
+27675	Choloepus didactylus Annotation Release 100	mChoDid1.pri	Rapid 2021-02	mChoDid1.pri	
+27679	Saimiri boliviensis Annotation Release 102	BCM_Sbol_2.0	Rapid 2021-03	BCM_Sbol_2.0	
+27687	Erpetoichthys calabaricus Annotation Release 100	fErpCal1.1	105	fErpCal1.1	20211222
+27794	Dermochelys coriacea Annotation Release 101	rDerCor1.pri.v4	Rapid 2024-03	rDerCor1.pri.v4	
+28377	Anolis carolinensis Annotation Release 102	AnoCar2.0	111	AnoCar2.0	
+28584	Drosophila suzukii Annotation Release 102	LBDM_Dsuz_2.1.pri	Rapid 2023-02	LBDM_Dsuz_2.1.pri	
+28586	Anastrepha ludens Annotation Release 100	idAnaLude1.1	Rapid 2024-01	idAnaLude1.1	
+28588	Zeugodacus cucurbitae Annotation Release 102	idZeuCucr1.2	Rapid 2024-01	idZeuCucr1.2	
+28610	Rhagoletis pomonella Annotation Release 100	Rhpom_1.0	Rapid Rhpom_1.0	Rhpom_1.0	
+28743	Cyprinodon variegatus Annotation Release 100	C_variegatus-1.0	112	C_variegatus-1.0	
+29029	Drosophila eugracilis Annotation Release 102	ASM1815383v1	Rapid 2023-02	ASM1815383v1	
+29030	Drosophila takahashii Annotation Release 102	ASM1815269v1	Rapid 2023-02	ASM1815269v1	
+29053	Copidosoma floridanum Annotation Release 101	Cflo_2.0	Rapid Cflo_2.0	Cflo_2.0	
+29057	Ostrinia nubilalis Annotation Release 100	ilOstNubi1.1	Rapid 2024-04	ilOstNubi1.1	
+29058	Helicoverpa armigera Annotation Release 101	HaSCD2	Rapid 2022-11	HaSCD2	
+29073	Ursus maritimus Annotation Release 100	UrsMar_1.0	100	UrsMar_1.0	20200506
+29088	Neomonachus schauinslandi Annotation Release 100	ASM220157v1	Rapid 2020-04	ASM220157v1	20210928
+29139	Vombatus ursinus Annotation Release 100	bare-nosed wombat genome assembly	112	bare-nosed wombat genome assembly	
+29159	Magallana gigas Annotation Release 103	xbMagGiga1.1	Rapid 2024-04	xbMagGiga1.1	
+29695	Phragmites australis Annotation Release 100	lpPhrAust1.1	Rapid 2024-02	lpPhrAust1.1	
+30019	Drosophila busckii Annotation Release 101	ASM1175060v1	Rapid 2023-02	ASM1175060v1	
+30025	Drosophila ficusphila Annotation Release 102	ASM1815226v1	Rapid 2023-02	ASM1815226v1	
+30033	Drosophila kikkawai Annotation Release 102	ASM1815253v1	Rapid 2023-02	ASM1815253v1	
+30195	Bombus terrestris Annotation Release 103	iyBomTerr1.2	Rapid 2022-03	iyBomTerr1.2	
+30207	Polistes fuscatus Annotation Release 100	CU_Pfus_HIC	Rapid 2022-11	CU_Pfus_HIC	
+30331	Bufo gargarizans Annotation Release 100	ASM1485885v1	Rapid 2021-03	ASM1485885v1	
+30427	Haemorhous mexicanus Annotation Release 100	bHaeMex1.pri	Rapid 2023-04	bHaeMex1.pri	
+30464	Nothoprocta perdicaria Annotation Release 100	notPer1	112	notPer1	
+30521	0	 	112	LU_Bosgru_v3.0	
+30522	Bos indicus x Bos taurus Annotation Release 100	UOA_Brahman_1	112	UOA_Brahman_1	
+30608	Microcebus murinus Annotation Release 101	Mmur_3.0	112	Mmur_3.0	
+30611	Otolemur garnettii Annotation Release 102	OtoGar3	112	OtoGar3	
+30640	Sciurus carolinensis Annotation Release 100	mSciCar1.2	Rapid 2020-12	mSciCar1.2	
+30732	Oryzias melastigma Annotation Release 101	ASM292280v2	Rapid 2024-05	ASM292280v2	
+31033	Takifugu rubripes Annotation Release 103	fTakRub1.2	112	fTakRub1.2	
+32260	Venturia canescens Annotation Release 100	ASM1945775v1	Rapid 2022-11	ASM1945775v1	
+32391	Cotesia glomerata Annotation Release 100	MPM_Cglom_v2.3	Rapid MPM_Cglom_v2.3	MPM_Cglom_v2.3	
+32507	Neolamprologus brichardi Annotation Release 101	NeoBri1.0	112	NeoBri1.0	
+33412	Zerene cesonia Annotation Release 100	Zerene_cesonia_1.1	Rapid 2022-08	Zerene_cesonia_1.1	
+33528	Gambusia affinis Annotation Release 100	SWU_Gaff_1.0	Rapid 2024-03	SWU_Gaff_1.0	
+34620	Dermacentor andersoni Annotation Release 101	qqDerAnde1.2	Rapid 2022-11	qqDerAnde1.2	
+34632	Rhipicephalus sanguineus Annotation Release 101	BIME_Rsan_1.4	Rapid 2023-04	BIME_Rsan_1.4	
+34638	Galendromus occidentalis Annotation Release 102	Mocc_1.0	Rapid 2021-12	Mocc_1.0	
+34773	Alosa sapidissima Annotation Release 100	fAloSap1.pri	Rapid 2022-01	fAloSap1.pri	
+34839	Chinchilla lanigera Annotation Release 101	ChiLan1.0	112	ChiLan1.0	
+34884	Callorhinus ursinus Annotation Release 100	ASM326570v1	Rapid 2020-08	ASM326570v1	
+34886	Eumetopias jubatus Annotation Release 100	ASM402803v1	Rapid 2020-08	ASM402803v1	
+35005	Thamnophis elegans Annotation Release 100	rThaEle1.pri	Rapid 2020-04	rThaEle1.pri	
+35523	Daphnia pulicaria Annotation Release 100	SC_F0-13Bv2	Rapid 2022-07	SC_F0-13Bv2	
+35525	Daphnia magna Annotation Release 101	ASM2063170v1.1	Rapid 2022-03	ASM2063170v1.1	
+35570	Stomoxys calcitrans Annotation Release 101	idStoCalc2.1	Rapid 2023-10	idStoCalc2.1	
+35658	Mastomys coucha Annotation Release 100	UCSF_Mcou_1	Rapid 2023-10	UCSF_Mcou_1	
+35670	0	 	112	Nana_v5	
+36100	Haliotis rubra Annotation Release 100	ASM391887v1	Rapid 2022-07	ASM391887v1	
+36190	0	 	Rapid 2024-02	KU_Ca_2.0	
+36723	Mustela erminea Annotation Release 100	mMusErm1.Pri	Rapid 2021-05	mMusErm1.Pri	
+37003	Kryptolebias marmoratus Annotation Release 102	ASM164957v2	Rapid 2024-02	ASM164957v2	
+37032	Suricata suricatta Annotation Release 100	meerkat_22Aug2017_6uvM2_HiC	112	meerkat_22Aug2017_6uvM2_HiC	
+37040	Gavia stellata Annotation Release 101	bGavSte3.hap2	Rapid 2024-05	bGavSte3.hap2	
+37293	Aotus nancymaae Annotation Release 101	Anan_2.0	111	Anan_2.0	
+37344	Athalia rosae Annotation Release 103	iyAthRosa1.1	Rapid 2021-11	iyAthRosa1.1	
+37621	Priapulus caudatus Annotation Release 100	Priapulus_caudatus-5.0.1	Rapid Priapulus_caudatus-5.0.1	Priapulus_caudatus-5.0.1	
+37653	Octopus bimaculoides Annotation Release 101	ASM119413v2	Rapid 2023-08	ASM119413v2	
+38626	Phascolarctos cinereus Annotation Release 100	phaCin_unsw_v4.1	112	phaCin_unsw_v4.1	
+38674	Onychomys torridus Annotation Release 100	mOncTor1.1	Rapid 2022-08	mOncTor1.1	
+38942	Quercus robur Annotation Release 100	dhQueRobu3.1	Rapid 2023-10	dhQueRobu3.1	
+39638	Agelaius phoeniceus Annotation Release 100	Agelaius phoeniceus 1.1	Rapid 2023-10	Agelaius phoeniceus 1.1	
+40151	Monodon monoceros Annotation Release 100	NGI_Narwhal_1	112	NGI_Narwhal_1	
+40157	Lonchura striata Annotation Release 100	LonStrDom1	98	LonStrDom1	20191007
+40690	Trematomus bernacchii Annotation Release 100	fTreBer1.1	Rapid 2020-07	fTreBer1.1	
+41117	Pollicipes pollicipes Annotation Release 100	Ppol_2	Rapid 2022-04	Ppol_2	
+41139	Coccinella septempunctata Annotation Release 100	icCocSept1.1	Rapid 2021-12	icCocSept1.1	
+41426	Phacochoerus africanus Annotation Release 100	ROS_Pafr_v1	Rapid 2023-08	ROS_Pafr_v1	
+41447	Seriola dumerili Annotation Release 100	Sdu_1.0	112	Sdu_1.0	
+41895	Tribolium madens Annotation Release 100	Tmad_KSU_1.1	Rapid 2023-08	Tmad_KSU_1.1	
+42062	Drosophila nasuta Annotation Release 100	ASM2355853v1	Rapid 2024-01	ASM2355853v1	
+42100	Phocoena sinus Annotation Release 100	mPhoSin1.pri	112	mPhoSin1.pri	
+42254	Sorex araneus Annotation Release 102	mSorAra2.pri	Rapid 2023-09	mSorAra2.pri	
+42275	Vanessa atalanta Annotation Release 100	ilVanAtal1.2	Rapid 2021-11	ilVanAtal1.2	
+42410	Peromyscus eremicus Annotation Release 100	PerEre_H2_v1	Rapid 2023-08	PerEre_H2_v1	
+42434	Culex pipiens pallens Annotation Release 101	TS_CPP_V2	Rapid 2024-01	TS_CPP_V2	
+42514	Pygocentrus nattereri Annotation Release 101	fPygNat1.pri	112	fPygNat1.pri	
+42636	Brienomyrus brachyistius Annotation Release 100	BBRACH_0.4	Rapid 2024-02	BBRACH_0.4	
+42839	Anopheles aquasalis Annotation Release 100	idAnoAquaMG_Q_19	Rapid 2022-12	idAnoAquaMG_Q_19	
+43146	Rhopalosiphum maidis Annotation Release 101	ASM367621v3	Rapid ASM367621v3	ASM367621v3	
+43150	Hirundo rustica Annotation Release 101	bHirRus1.pri.v3	Rapid 2024-05	bHirRus1.pri.v3	
+43151	Anopheles darlingi Annotation Release 100	idAnoDarlMG_H_01	Rapid 2022-12	idAnoDarlMG_H_01	
+43179	Ictidomys tridecemlineatus Annotation Release 103	HiC_Itri_2	Rapid 2023-07	HiC_Itri_2	
+43256	0	 	Rapid 2020-07	fHarAnt1.1	
+43346	Bison bison bison Annotation Release 100	Bison_UMD1.0	112	Bison_UMD1.0	
+43700	Monopterus albus Annotation Release 100	M_albus_1.0	112	M_albus_1.0	
+44386	0	 	Rapid ASM1333976v1	ASM1333976v1	
+44394	Zonotrichia albicollis Annotation Release 102	Zonotrichia_albicollis-1.0.1	112	Zonotrichia_albicollis-1.0.1	
+45264	Acropora millepora Annotation Release 101	Amil_v2.1	Rapid 2022-03	Amil_v2.1	
+45834	Solanum dulcamara Annotation Release 100	daSolDulc1.2	Rapid 2024-01	daSolDulc1.2	
+45954	Dreissena polymorpha Annotation Release 100	UMN_Dpol_1.0	Rapid 2023-04	UMN_Dpol_1.0	
+46514	Patiria miniata Annotation Release 100	Pmin_3.0	Rapid 2022-04	Pmin_3.0	
+46731	Pocillopora damicornis Annotation Release 100	ASM370409v1	Rapid ASM370409v1	ASM370409v1	
+46844	Leopardus geoffroyi Annotation Release 100	O.geoffroyi_Oge1_pat1.0	Rapid 2021-08	O.geoffroyi_Oge1_pat1.0	
+47969	Oreochromis aureus Annotation Release 101	ZZ_aureus	112	ZZ_aureus	
+48139	Psammomys obesus Annotation Release 100	mPsaObe1.curated_primary_1811	Rapid 2023-10	mPsaObe1.curated_primary_1811	
+48155	Sylvia atricapilla Annotation Release 100	bSylAtr1.pri	Rapid 2024-05	bSylAtr1.pri	
+48193	Mugil cephalus Annotation Release 100	CIBA_Mcephalus_1.1	Rapid 2022-11	CIBA_Mcephalus_1.1	
+48498	Orbicella faveolata Annotation Release 100	ofav_dov_v1	Rapid 2021-12	ofav_dov_v1	
+48698	Poecilia formosa Annotation Release 101	Poecilia_formosa-5.1.2	100	Poecilia_formosa-5.1.2	20200506
+48699	Poecilia latipinna Annotation Release 100	P_latipinna-1.0	112	P_latipinna-1.0	
+48701	Poecilia mexicana Annotation Release 100	P_mexicana-1.0	112	P_mexicana-1.0	
+48708	Mesoplodon densirostris Annotation Release 100	mMesDen1 primary haplotype	Rapid 2024-04	mMesDen1 primary haplotype	
+48849	0	 	Rapid 2020-04	Passer_domesticus-1.0	
+48883	Geospiza fortis Annotation Release 102	GeoFor_1.0	112	GeoFor_1.0	
+48891	0	 	Rapid 2020-04	CUB_Patr_1.0	
+50023	Panonychus citri Annotation Release 100	ASM1489881v1	Rapid 2023-04	ASM1489881v1	
+50390	Diabrotica virgifera virgifera Annotation Release 101	PGI_DIABVI_V3a	Rapid 2022-10	PGI_DIABVI_V3a	
+50429	Stylophora pistillata Annotation Release 100	Stylophora pistillata v1	Rapid Stylophora_pistillata_v1	Stylophora pistillata v1	
+51337	Jaculus jaculus Annotation Release 102	mJacJac1.mat.Y.cur	Rapid 2022-05	mJacJac1.mat.Y.cur	
+51338	Castor canadensis Annotation Release 100	C.can genome v1.0	112	C.can genome v1.0	
+51549	Pseudorasbora parva Annotation Release 100	ASM2467924v1	Rapid 2024-01	ASM2467924v1	
+51655	Plutella xylostella Annotation Release 103	ilPluXylo3.1	Rapid 2022-06	ilPluXylo3.1	
+52239	Pseudochaenichthys georgianus Annotation Release 100	fPseGeo1.1	Rapid 2020-05	fPseGeo1.1	
+52904	Scophthalmus maximus Annotation Release 101	ASM2237912v1	Rapid 2023-01	ASM2237912v1	
+53552	Sabethes cyaneus Annotation Release 100	idSabCyanKW18_F2	Rapid 2024-06	idSabCyanKW18_F2	
+54180	Trachypithecus francoisi Annotation Release 100	Tfra_2.0	Rapid 2020-05	Tfra_2.0	
+55291	Polypterus senegalus Annotation Release 100	ASM1683550v1	Rapid 2024-03	ASM1683550v1	
+55661	Cuculus canorus Annotation Release 101	bCucCan1.pri	Rapid 2023-01	bCucCan1.pri	
+56716	Cottoperca gobio Annotation Release 100	fCotGob3.1	112	fCotGob3.1	
+56723	Labrus bergylta Annotation Release 101	BallGen_V1	112	BallGen_V1	
+56733	Eleginops maclovinus Annotation Release 100	JC_Emac_rtc_rv5	Rapid 2024-04	JC_Emac_rtc_rv5	
+57926	Argentina anserina Annotation Release 100	drPotAnse1.1	Rapid 2024-01	drPotAnse1.1	
+58002	Daktulosphaira vitifoliae Annotation Release 100	ASM2509136v1	Rapid 2023-04	ASM2509136v1	
+58824	Plodia interpunctella Annotation Release 100	ilPloInte3.1	Rapid 2024-01	ilPloInte3.1	20240409
+59463	Myotis lucifugus Annotation Release 102	Myoluc2.0	112	Myoluc2.0	
+59474	0	 	Rapid 2023-08	mPipPip1.1	
+59479	Rhinolophus ferrumequinum Annotation Release 100	mRhiFer1_v1.p	Rapid 2023-10	mRhiFer1_v1.p	
+59729	Taeniopygia guttata Annotation Release 104	bTaeGut1_v1.p	99	bTaeGut1_v1.p	20200313
+59861	Coregonus clupeaformis Annotation Release 101	ASM2061545v1	Rapid 2024-03	ASM2061545v1	
+59894	Ficedula albicollis Annotation Release 101	FicAlb1.5	112	FicAlb1.5	
+59916	Bactrocera tryoni Annotation Release 100	CSIRO_BtryS06_freeze2	Rapid 2021-12	CSIRO_BtryS06_freeze2	
+60711	Chlorocebus sabaeus Annotation Release 100	Chlorocebus_sabeus 1.1	100	Chlorocebus_sabeus 1.1	20200505
+60746	Acomys russatus Annotation Release 100	mAcoRus1.1	Rapid 2023-10	mAcoRus1.1	
+61156	Arvicanthis niloticus Annotation Release 100	mArvNil1.pat.X	Rapid 2020-06	mArvNil1.pat.X	
+61221	Varanus komodoensis Annotation Release 100	ASM479886v1	112	ASM479886v1	
+61383	Lynx canadensis Annotation Release 101	mLynCan4_v1.p	100	mLynCan4_v1.p	20200505
+61621	Rhinopithecus bieti Annotation Release 100	ASM169854v1	112	ASM169854v1	
+61622	Rhinopithecus roxellana Annotation Release 100	Rrox_v1	97	Rrox_v1	20190709
+61853	Nomascus leucogenys Annotation Release 103	Asia_NLE_v1	Rapid 2022-07	Asia_NLE_v1	
+62324	Anopheles funestus Annotation Release 100	idAnoFuneDA-416_04	Rapid idAnoFuneDA-416_04	idAnoFuneDA-416_04	
+62625	Varroa jacobsoni Annotation Release 100	vjacob_1.0	Rapid 2023-04	vjacob_1.0	
+63155	Archocentrus centrarchus Annotation Release 100	fArcCen1	Rapid 2020-04	fArcCen1	
+64144	Anabas testudineus Annotation Release 101	fAnaTes1.2	105	fAnaTes1.2	20211222
+64176	Podarcis muralis Annotation Release 100	PodMur_1.0	112	PodMur_1.0	
+64459	Pieris rapae Annotation Release 101	ilPieRapa1.1	Rapid 2021-05	ilPieRapa1.1	
+64668	Lagopus muta Annotation Release 100	bLagMut1 primary	Rapid 2023-10	bLagMut1 primary	
+65598	Bombus pascuorum Annotation Release 100	iyBomPasc1.1	Rapid 2021-11	iyBomPasc1.1	
+66913	Ictalurus furcatus Annotation Release 100	Billie_1.0	Rapid 2024-05	Billie_1.0	
+68878	Anopheles cruzii Annotation Release 100	idAnoCruzAS_RS32_06	Rapid 2022-11	idAnoCruzAS_RS32_06	
+69293	Gasterosteus aculeatus Annotation Release 100	GAculeatus_UGA_version5	112	GAculeatus_UGA_version5	
+69319	Microplitis demolitor Annotation Release 102	iyMicDemo2.1a	Rapid 2024-01	iyMicDemo2.1a	
+69820	Spodoptera litura Annotation Release 100	ASM270686v1	Rapid 2023-02	ASM270686v3	
+70543	Myxocyprinus asiaticus Annotation Release 100	UBuf_Myxa_2	Rapid 2024-02	UBuf_Myxa_2	
+72004	Bos mutus Annotation Release 101	BosGru_v2.0	100	BosGru_v2.0	20200504
+72036	Lepeophtheirus salmonis Annotation Release 100	UVic_Lsal_1.1	Rapid 2022-07	UVic_Lsal_1.2	
+72105	Sebastes umbrosus Annotation Release 100	fSebUmb1.pri	Rapid 2022-01	fSebUmb1.pri	
+72248	Colias croceus Annotation Release 100	ilColCroc2.1	Rapid 2021-05	ilColCroc2.1	
+74068	Macrosteles quadrilineatus Annotation Release 100	UCM_ALF_1.0	Rapid 2023-04	UCM_ALF_1.0	
+74645	Rosa rugosa Annotation Release 100	drRosRugo1.1	Rapid 2024-02	drRosRugo1.1	
+74940	Oncorhynchus tshawytscha Annotation Release 101	Otsh_v2.0	112	Otsh_v2.0	
+75329	Misgurnus anguillicaudatus Annotation Release 100	HAU_Mang_1.0	Rapid 2024-02	HAU_Mang_1.0	
+75352	Megalobrama amblycephala Annotation Release 100	ASM1881202v1	Rapid 2022-10	ASM1881202v1	
+75366	Sinocyclocheilus grahami Annotation Release 100	SAMN03320097.WGS_v1.1	112	SAMN03320097.WGS_v1.1	
+75485	Rissa tridactyla Annotation Release 100	bRisTri1.patW.cur.20221130	Rapid 2024-05	bRisTri1.patW.cur.20221130	
+76193	Papilio machaon Annotation Release 101	ilPapMach1.1	Rapid 2021-11	ilPapMach1.1	
+77151	Mustela nigripes Annotation Release 100	MUSNIG.SB6536	Rapid 2024-02	MUSNIG.SB6536	
+77166	Dendroctonus ponderosae Annotation Release 100	DendPond_male_1.0	Rapid DendPond_male_1.0	DendPond_male_1.0	20220202
+78633	Pieris napi Annotation Release 100	ilPieNapi1.2	Rapid 2022-03	ilPieNapi1.2	
+79684	Microtus ochrogaster Annotation Release 102	MicOch1.0	112	MicOch1.0	
+79690	Hypanus sabinus Annotation Release 100	sHypSab1.hap1	Rapid 2024-03	sHypSab1.hap1	
+79782	Cimex lectularius Annotation Release 101	Clec_2.1	Rapid Clec_2.1	Clec_2.1	
+80427	Lacerta agilis Annotation Release 100	rLacAgi1.pri	Rapid 2021-03	rLacAgi1.pri	
+80966	Acanthochromis polyacanthus Annotation Release 100	ASM210954v1	100	ASM210954v1	20200504
+80972	Amphiprion ocellaris Annotation Release 102	ASM2253959v1	112	ASM2253959v1	
+81572	Hylobates moloch Annotation Release 102	HMol_V3	Rapid 2022-07	HMol_V3	
+83485	Linepithema humile Annotation Release 100	Lhum_UMD_V04	Rapid 2022-07	Lhum_UMD_V04	
+84645	Labeo rohita Annotation Release 100	IGBB_LRoh.1.0	Rapid 2024-02	IGBB_LRoh.1.0	
+84834	Molothrus ater Annotation Release 100	BPBGC_Mater_1.0	Rapid 2020-05	BPBGC_Mater_1.0	20210928
+85661	Bombus huntii Annotation Release 100	iyBomHunt1.1	Rapid 2022-09	iyBomHunt1.1	
+87175	Camarhynchus parvulus Annotation Release 100	STF_HiC	100	STF_HiC	20200504
+88015	0	 	Rapid 2022-03	Eaff_2.0	20220509
+88925	Lineus longissimus Annotation Release 100	tnLinLong1.2	Rapid 2022-03	tnLinLong1.2	
+89462	Bubalus bubalis Annotation Release 103	NDDB_SH_1	Rapid 2023-11	NDDB_SH_1	
+89673	Phyllostomus discolor Annotation Release 101	mPhyDis1.pri.v3	Rapid 2020-07	mPhyDis1.pri.v3	
+90069	Solea solea Annotation Release 100	fSolSol10.1	Rapid 2023-09	fSolSol10.1	
+90247	Lagenorhynchus obliquidens Annotation Release 100	ASM367639v1	Rapid 2020-08	ASM367639v1	
+91411	Polistes canadensis Annotation Release 100	ASM131383v1	Rapid 2022-11	ASM131383v1	
+91739	Aricia agestis Annotation Release 100	ilAriAges1.1	Rapid 2021-11	ilAriAges1.1	
+91951	Catharus ustulatus Annotation Release 100	bCatUst1.pri	101	bCatUst1.pri	20200824
+93162	Marmota flaviventris Annotation Release 101	GSC_YBM_2.0	Rapid 2020-05	GSC_YBM_2.0	
+93934	Coturnix japonica Annotation Release 101	Coturnix japonica 2.1	112	Coturnix japonica 2.0	
+94469	Phlebotomus argentipes Annotation Release 100	Phlebotomus argentipes genome assembly	Rapid 2024-01	Phlebotomus argentipes genome assembly	
+94885	Pantherophis guttatus Annotation Release 100	UNIGE_PanGut_3.0	Rapid 2020-04	UNIGE_PanGut_3.0	
+95512	Anastrepha obliqua Annotation Release 100	idAnaObli1_1.0	Rapid 2024-01	idAnaObli1_1.0	
+95602	Eriocheir sinensis Annotation Release 100	ASM2467909v1	Rapid 2023-08	ASM2467909v1	
+98809	Bactrocera neohumeralis Annotation Release 100	APGP_CSIRO_Bneo_wtdbg2-racon-allhic-juicebox.fasta_v2	Rapid 2023-02	APGP_CSIRO_Bneo_wtdbg2-racon-allhic-juicebox.fasta_v2	
+99487	Elephas maximus indicus Annotation Release 100	mEleMax1 primary haplotype	Rapid 2023-06	mEleMax1 primary haplotype	
+101364	Carassius gibelio Annotation Release 100	carGib1.2-hapl.c	Rapid 2024-03	carGib1.2-hapl.c	
+103372	Acromyrmex echinatior Annotation Release 100	Aech_3.9	Rapid 2022-06	Aech_3.9	
+103695	Pogona vitticeps Annotation Release 100	pvi1.1	112	pvi1.1	
+103775	Drosophila gunungcola Annotation Release 100	Dgunungcola_SK_2	Rapid 2023-08	Dgunungcola_SK_2	
+103933	Bombus bifarius Annotation Release 100	Bbif_JDL3187	Rapid 2021-11	Bbif_JDL3187	
+104421	Camponotus floridanus Annotation Release 102	Cflo_v7.5	Rapid 2022-07	Cflo_v7.5	
+105023	Nothobranchius furzeri Annotation Release 100	Nfu_20140520	105	Nfu_20140520	20211221
+105785	Cryptotermes secundus Annotation Release 101	Csec_1.0	Rapid 2023-04	Csec_1.0	
+106582	Maylandia zebra Annotation Release 104	M_zebra_UMD2a	112	M_zebra_UMD2a	
+106734	Chelonoidis abingdonii Annotation Release 100	ASM359739v1	112	ASM359739v1	
+108931	Nilaparvata lugens Annotation Release 101	ASM1435652v1	Rapid 2022-11	ASM1435652v1	
+109274	0	 	Rapid 2024-05	ZJU1.0	
+109280	Hippocampus comes Annotation Release 100	H_comes_QL1_v1	112	H_comes_QL1_v1	
+109293	Hippocampus zosterae Annotation Release 100	ASM2543408v3	Rapid 2024-03	ASM2543408v3	
+109475	Suncus etruscus Annotation Release 100	mSunEtr1.pri.cur	Rapid 2022-09	mSunEtr1.pri.cur	
+109905	Chelmon rostratus Annotation Release 100	fCheRos1.pri	Rapid 2022-03	fCheRos1.pri	
+110368	Bicyclus anynana Annotation Release 101	ilBicAnyn1.1	Rapid 2023-10	ilBicAnyn1.1	
+110931	Cynocephalus volans Annotation Release 100	mCynVol1.pri	Rapid 2024-02	mCynVol1.pri	
+113334	Melitaea cinxia Annotation Release 100	ilMelCinx1.1	Rapid 2021-05	ilMelCinx1.1	
+113540	Scleropages formosus Annotation Release 101	fSclFor1.1	112	fSclFor1.1	
+114398	Parasteatoda tepidariorum Annotation Release 102	Ptep_3.0	Rapid Ptep_3.0	Ptep_3.0	
+115357	Harmonia axyridis Annotation Release 100	icHarAxyr1.1	Rapid 2023-10	icHarAxyr1.1	
+116150	Pararge aegeria Annotation Release 100	ilParAegt1.1	Rapid 2021-05	ilParAegt1.1	
+116153	Aethina tumida Annotation Release 101	icAetTumi1.1	Rapid 2022-09	icAetTumi1.1	
+118141	Megalops cyprinoides Annotation Release 100	fMegCyp1.pri	Rapid 2020-07	fMegCyp1.pri	
+118200	Dryobates pubescens Annotation Release 101	bDryPub1.pri	Rapid 2023-10	bDryPub1.pri	
+120202	Daphnia carinata Annotation Release 101	CSIRO_AGI_Dcar_v0.2	Rapid 2023-08	CSIRO_AGI_Dcar_v0.2	20230911
+121492	Corticium candelabrum Annotation Release 100	ooCorCand1.1	Rapid 2024-02	ooCorCand1.1	
+121494	Oscarella lobularis Annotation Release 100	ooOscLobu1.1	Rapid 2024-02	ooOscLobu1.1	
+121845	Diaphorina citri Annotation Release 102	Diaci psyllid genome assembly version 1.1	Rapid 2023-08	Diaci psyllid genome assembly version 1.1	
+125945	Drosophila biarmipes Annotation Release 103	RU_DBia_V1.1	Rapid 2023-02	RU_DBia_V1.1	
+127582	Trichechus manatus latirostris Annotation Release 102	TriManLat1.0	Rapid 2020-05	TriManLat1.0	
+129043	Cololabis saira Annotation Release 100	fColSai1.1	Rapid 2024-05	fColSai1.1	
+129105	Drosophila santomea Annotation Release 101	Prin_Dsan_1.1	Rapid 2023-02	Prin_Dsan_1.1	
+132113	Bombus impatiens Annotation Release 103	BIMP_2.2	Rapid 2021-11	BIMP_2.2	
+133065	Adelges cooleyi Annotation Release 100	UGA_ACOO_1.1	Rapid 2023-04	UGA_ACOO_1.1	
+133434	Acanthaster planci Annotation Release 100	OKI-Apl_1.0	Rapid 2022-03	OKI-Apl_1.0	
+135433	0	 	Rapid 2023-10	bGeoTri1.pri	
+137520	Hypomesus transpacificus Annotation Release 100	fHypTra1	Rapid 2024-03	fHypTra1	
+139045	0	 	Rapid 2022-12	idAnoCousDA_361_x	
+139047	0	 	Rapid 2022-12	idAnoBellAS_SP24_06	
+139456	Penaeus chinensis Annotation Release 100	ASM1920278v2	Rapid 2022-07	ASM1920278v2	
+143291	Pteropus giganteus Annotation Release 100	Ma_sr-lr_union100	Rapid 2020-05	Ma_sr-lr_union100	
+143948	Diuraphis noxia Annotation Release 100	Dnoxia_1.0	Rapid Dnoxia_1.0	Dnoxia_1.0	
+143950	Sipha flava Annotation Release 100	YSA_version1	Rapid YSA_version1	YSA_version1	
+143995	Megachile rotundata Annotation Release 101	MROT_1.0	Rapid 2022-07	MROT_1.0	
+144034	Pogonomyrmex barbatus Annotation Release 101	Pbar_UMD_V03	Rapid 2022-07	Pbar_UMD_V03	
+144197	Stegastes partitus Annotation Release 100	Stegastes_partitus-1.0.2	112	Stegastes_partitus-1.0.2	
+147949	Micropterus dolomieu Annotation Release 100	ASM2129224v1	Rapid 2024-02	ASM2129224v1	
+151771	Dendronephthya gigantea Annotation Release 100	DenGig_1.0	Rapid DenGig_1.0	DenGig_1.0	
+154827	Xyrauchen texanus Annotation Release 100	RBS_HiC_50CHRs	Rapid 2024-02	RBS_HiC_50CHRs	
+156563	Cyanistes caeruleus Annotation Release 100	cyaCae2	112	cyaCae2	
+158441	Folsomia candida Annotation Release 101	ASM221717v1	Rapid 2022-11	ASM221717v1	
+158456	Betta splendens Annotation Release 102	fBetSpl5.4	Rapid 2024-05	fBetSpl5.4	
+159077	Nerophis ophidion Annotation Release 100	RoL_Noph_v1.0	Rapid 2024-05	RoL_Noph_v1.0	
+161013	Thrips palmi Annotation Release 100	TpBJ-2018v1	Rapid 2022-11	TpBJ-2018v1	
+161448	Corythoichthys intestinalis Annotation Release 100	ASM3026506v1	Rapid 2024-05	ASM3026506v1	
+161453	Dunckerocampus dactyliophorus Annotation Release 100	RoL_Ddac_1.1	Rapid 2024-04	RoL_Ddac_1.1	
+161455	Entelurus aequoreus Annotation Release 100	RoL_Eaeq_v1.1	Rapid 2024-05	RoL_Eaeq_v1.1	
+161469	Phyllopteryx taeniolatus Annotation Release 100	UOR_Ptae_1.2	Rapid 2023-08	UOR_Ptae_1.2	
+161584	Syngnathus acus Annotation Release 100	fSynAcu1.2	Rapid 2022-03	fSynAcu1.2	
+161592	Syngnathus typhle Annotation Release 100	RoL_Styp_1.0	Rapid 2024-05	RoL_Styp_1.0	
+166361	Onthophagus taurus Annotation Release 100	Otau_2.0	Rapid 2021-12	Otau_2.0	
+170820	Hemiscyllium ocellatum Annotation Release 100	sHemOce1.pat.X.cur.	Rapid 2024-04	sHemOce1.pat.X.cur.	
+170843	Planococcus citri Annotation Release 100	ihPlaCitr1.1	Rapid 2023-07	ihPlaCitr1.1	
+171585	Nymphalis io Annotation Release 100	ilAglIoxx1.1	Rapid 2021-05	ilAglIoxx1.1	
+171605	Vanessa cardui Annotation Release 100	ilVanCard2.1	Rapid 2021-05	ilVanCard2.1	20220321
+173247	Echeneis naucrates Annotation Release 100	fEcheNa1.1	112	fEcheNa1.1	
+173339	0	 	Rapid 2024-05	ASM3707460v1	
+174621	Wyeomyia smithii Annotation Release 100	ASM2978416v1	Rapid 2024-01	ASM2978416v1	
+174628	Bactrocera latifrons Annotation Release 100	ASM185335v1	Rapid 2021-12	ASM185335v1	
+176066	0	 	Rapid 2023-10	MMon_1.0	
+177155	0	 	Rapid 2023-10	bStrTur1.2	
+178035	Dufourea novaeangliae Annotation Release 100	ASM127255v1	Rapid 2022-07	ASM127255v1	
+181472	Salarias fasciatus Annotation Release 100	fSalaFa1.1	112	fSalaFa1.1	
+184440	Centropristis striata Annotation Release 100	C.striata_1.0	Rapid 2024-05	C.striata_1.0	
+184585	Engraulis encrasicolus Annotation Release 100	IST_EnEncr_1.0	Rapid 2024-05	IST_EnEncr_1.0	
+185578	Anopheles nili Annotation Release 100	idAnoNiliSN_F5_01	Rapid 2022-12	idAnoNiliSN_F5_01	
+186990	Hipposideros armiger Annotation Release 100	ASM189008v1	Rapid 2020-08	ASM189008v1	
+189513	Chrysoperla carnea Annotation Release 100	inChrCarn1.1	Rapid 2023-10	inChrCarn1.1	
+189913	Leptidea sinapis Annotation Release 100	ilLepSina1.1	Rapid 2021-11	ilLepSina1.1	
+190385	Uranotaenia lowii Annotation Release 100	ASM2978415v1	Rapid 2024-01	ASM2978415v1	
+191418	Maniola jurtina Annotation Release 100	ilManJurt1.1	Rapid 2021-06	ilManJurt1.1	
+194338	Athene cunicularia Annotation Release 100	athCun1	112	athCun1	
+195615	Hippoglossus stenolepis Annotation Release 101	HSTE1.2	Rapid 2024-02	HSTE1.2	
+196820	Dysidea avara Annotation Release 100	odDysAvar1.4	Rapid 2024-05	odDysAvar1.4	
+197043	Homalodisca vitripennis Annotation Release 100	UT_GWSS_2.1	Rapid 2022-11	UT_GWSS_2.1	
+197152	Cloeon dipterum Annotation Release 100	ieCloDipt1.1	Rapid 2024-06	ieCloDipt1.1	
+197179	Cylas formicarius Annotation Release 100	icCylForm1.1	Rapid 2024-01	icCylForm1.1	
+198719	Drosophila innubila Annotation Release 100	UK_Dinn_1.0	Rapid 2023-08	UK_Dinn_1.0	
+198806	Calidris pugnax Annotation Release 100	ASM143184v1	112	ASM143184v1	
+202533	Stegodyphus dumicola Annotation Release 100	ASM1061486v1	Rapid 2022-07	ASM1061486v2	
+202808	Vespa velutina Annotation Release 100	iVesVel2.1	Rapid 2021-11	iVesVel2.1	
+203993	Pocillopora verrucosa Annotation Release 100	CSIRO_AGI_Pver_v1	Rapid 2023-10	CSIRO_AGI_Pver_v1	
+205130	Mastacembelus armatus Annotation Release 101	fMasArm1.2	112	fMasArm1.2	
+207650	Bombus vosnesenskii Annotation Release 100	Bvos_JDL3184-5_v1.1	Rapid 2022-09	Bvos_JDL3184-5_v1.1	
+208333	Girardinichthys multiradiatus Annotation Release 100	DD_fGirMul_XY1	Rapid 2023-03	DD_fGirMul_XY1	
+210409	Portunus trituberculatus Annotation Release 100	ASM1759143v1	Rapid 2022-04	ASM1759143v1	
+210632	Parambassis ranga Annotation Release 100	fParRan2.1	100	fParRan2.1	20200506
+212925	Euphorbia lathyris Annotation Release 100	ddEupLath1.1	Rapid 2024-02	ddEupLath1.1	
+214514	Perognathus longimembris pacificus Annotation Release 100	ASM2315922v1	Rapid 2023-10	ASM2315922v1	
+215358	Larimichthys crocea Annotation Release 102	L_crocea_2.0	110	L_crocea_2.0	
+215402	0	 	Rapid 2023-06	ASM1899790v1	
+218467	Centruroides sculpturatus Annotation Release 100	Cexi_2.0	Rapid Cexi_2.0	Cexi_2.0	
+219594	Aythya fuligula Annotation Release 100	bAytFul2.pri	Rapid 2024-04	bAytFul2.pri	
+222816	Orussus abietinus Annotation Release 101	Oabi_2.0	Rapid 2021-12	Oabi_2.0	
+223781	Aquila chrysaetos chrysaetos Annotation Release 100	bAquChr1.2	100	bAquChr1.2	20200504
+224129	Agrilus planipennis Annotation Release 101	Apla_2.0	Rapid 2021-12	Apla_2.0	
+230844	Peromyscus maniculatus bairdii Annotation Release 101	Pman_1.0	95	Pman_1.0	20190114
+240163	0	 	Rapid 2022-10	ASM1428187v1	
+240832	0	 	Rapid 2024-02	Tpac_2.0	
+241271	Cheilinus undulatus Annotation Release 100	ASM1832078v1	Rapid 2023-06	ASM1832078v1	
+244447	Cynoglossus semilaevis Annotation Release 102	Cse_v1.0	112	Cse_v1.0	
+252671	Clytia hemisphaerica Annotation Release 100	Clytia hemisphaerica genome assembly	Rapid 2020-05	Clytia hemisphaerica genome assembly	
+253017	Impatiens glandulifera Annotation Release 100	dImpGla2.1	Rapid 2024-01	dImpGla2.1	
+257877	Macaca thibetana thibetana Annotation Release 100	ASM2454274v1	Rapid 2022-09	ASM2454274v1	
+259920	Rhincodon typus Annotation Release 101	sRhiTyp1.1	Rapid 2022-10	sRhiTyp1.1	
+261503	Rhineura floridana Annotation Release 100	rRhiFlo1.hap2	Rapid 2024-04	rRhiFlo1.hap2	
+270530	Synchiropus splendidus Annotation Release 100	RoL_Sspl_1.0	Rapid 2024-02	RoL_Sspl_1.0	
+274613	Schistocerca piceifrons Annotation Release 100	iqSchPice1.1	Rapid 2023-03	iqSchPice1.1	
+274614	Schistocerca cancellata Annotation Release 100	iqSchCanc2.1	Rapid 2023-03	iqSchCanc2.1	
+278164	Alosa alosa Annotation Release 100	AALO_Geno_1.1	Rapid 2023-08	AALO_Geno_1.1	
+283035	Sander lucioperca Annotation Release 101	SLUC_FBN_1.2	Rapid 2024-05	SLUC_FBN_1.2	
+286419	Canis lupus dingo Annotation Release 100	ASM325472v1	100	ASM325472v1	20200504
+286459	Episyrphus balteatus Annotation Release 100	idEpiBalt1.1	Rapid 2023-05	idEpiBalt1.1	
+286706	Halyomorpha halys Annotation Release 101	Hhal_2.0	Rapid 2023-08	Hhal_2.0	
+290404	Eupeodes corollae Annotation Release 100	idEupCoro1.1	Rapid 2023-05	idEupCoro1.1	
+293821	Epinephelus fuscoguttatus Annotation Release 100	E.fuscoguttatus.final_Chr_v1	Rapid 2024-04	E.fuscoguttatus.final_Chr_v1	
+296741	Chiroxiphia lanceolata Annotation Release 100	bChiLan1.pri	Rapid 2020-11	bChiLan1.pri	
+299321	Denticeps clupeoides Annotation Release 100	fDenClu1.1	100	fDenClu1.1	20200505
+300413	Epinephelus moara Annotation Release 100	YSFRI_EMoa_1.0	Rapid 2024-01	YSFRI_EMoa_1.0	
+300417	Syngnathoides biaculeatus Annotation Release 100	ASM1980259v1	Rapid 2024-02	ASM1980259v1	
+303518	Pundamilia nyererei Annotation Release 101	PunNye1.0	112	PunNye1.0	
+307658	Monomorium pharaonis Annotation Release 102	ASM1337386v2	Rapid 2021-12	ASM1337386v2	
+307959	Sinocyclocheilus rhinocerous Annotation Release 100	SAMN03320098_v1.1	112	SAMN03320098_v1.1	
+308060	Apteryx rowi Annotation Release 100	aptRow1	112	aptRow1	
+309941	Bombus affinis Annotation Release 100	iyBomAffi1.2	Rapid 2024-01	iyBomAffi1.2	
+310571	Epinephelus lanceolatus Annotation Release 100	ASM528154v1	Rapid 2024-01	ASM528154v1	
+310915	Pangasianodon hypophthalmus Annotation Release 102	fPanHyp1.pri	Rapid 2023-04	fPanHyp1.pri	
+313031	Hylaeus anthracinus Annotation Release 100	UHH_iyHylAnth1.0_haploid	Rapid 2024-01	UHH_iyHylAnth1.0_haploid	
+313075	Hylaeus volcanicus Annotation Release 100	UHH_iyHylVolc1.0_haploid	Rapid 2024-01	UHH_iyHylVolc1.0_haploid	
+321398	Lepidothrix coronata Annotation Release 100	Lepidothrix_coronata-1.0	112	Lepidothrix_coronata-1.0	
+325434	Malaya genurostris Annotation Release 100	Malgen_1.1	Rapid 2024-01	Malgen_1.1	
+327109	Uloborus diversus Annotation Release 100	Udiv.v.3.1	Rapid 2023-08	Udiv.v.3.1	
+327740	Hyla sarda Annotation Release 100	aHylSar1.hap1	Rapid 2023-09	aHylSar1.hap1	
+328815	Manacus vitellinus Annotation Release 102	ASM171598v2	97	ASM171598v2	20190708
+329112	Toxorhynchites rutilus septentrionalis Annotation Release 100	ASM2978413v1	Rapid 2024-01	ASM2978413v1	
+334116	Vanessa tameamea Annotation Release 100	ASM293899v1	Rapid 2022-08	ASM293899v1	
+334712	0	 	Rapid 2024-02	ASM2756415v1	
+336983	Colobus angolensis palliatus Annotation Release 100	Cang.pa_1.0	112	Cang.pa_1.0	
+337641	Hemibagrus wyckioides Annotation Release 100	SWU_Hwy_1.0	Rapid 2023-08	SWU_Hwy_1.0	
+343691	Hermetia illucens Annotation Release 100	iHerIll2.2.curated.20191125	Rapid 2021-12	iHerIll2.2.curated.20191125	
+345164	Falco cherrug Annotation Release 102	F_cherrug_v1.0	Rapid 2020-07	F_cherrug_v1.0	20210928
+345580	0	 	Rapid 2022-12	idAnoZiCoDA_A2_x	
+356393	0	 	Rapid 2022-09	xbLimFort5.1 alternate haplotype	
+375433	Microplitis mediator Annotation Release 100	iyMicMedi2.1	Rapid 2024-01	iyMicMedi2.1	
+375764	Sphaeramia orbicularis Annotation Release 100	fSphaOr1.1	112	fSphaOr1.1	
+379532	Propithecus coquereli Annotation Release 100	Pcoq_1.0	112	Pcoq_1.0	
+386614	Amblyraja radiata Annotation Release 100	sAmbRad1.1.pri	Rapid 2020-06	sAmbRad1	
+390379	Thalassophryne amazonica Annotation Release 100	fThaAma1.1	Rapid 2020-05	fThaAma1.1	
+391180	Enhydra lutris kenyoni Annotation Release 100	ASM228890v2	Rapid 2020-08	ASM228890v2	
+396416	Bombus pyrosoma Annotation Release 100	ASM1482585v1	Rapid 2021-11	ASM1482585v1	
+400682	Amphimedon queenslandica Annotation Release 102	v1.0	Rapid 2022-12	v1.1	
+400727	Pomacea canaliculata Annotation Release 100	ASM307304v1	Rapid ASM307304v1	ASM307304v1	
+409849	Periophthalmus magnuspinnatus Annotation Release 101	fPerMag1.2.pri	112	fPerMag1.2.pri	
+419612	Camelus ferus Annotation Release 102	BCGSAC_Cfer_1.0	Rapid 2020-10	BCGSAC_Cfer_1.0	
+433684	Takifugu flavidus Annotation Release 100	ASM371156v2	Rapid 2022-10	ASM371156v2	
+437488	0	 	Rapid 2022-08	ASM1485141v1	
+441366	Gouania willdenowi Annotation Release 100	fGouWil2.1	112	fGouWil2.1	
+441921	Neodiprion lecontei Annotation Release 101	iyNeoLeco1.1	Rapid 2022-08	iyNeoLeco1.1	
+441929	Neodiprion pinetum Annotation Release 100	iyNeoPine1.1	Rapid 2022-11	iyNeoPine1.1	
+443677	Neoarius graeffei Annotation Release 100	fNeoGra1.pri	Rapid 2024-02	fNeoGra1.pri	
+460826	Chelonus insularis Annotation Release 100	ASM1335770v1	Rapid 2022-10	ASM1335770v1	
+516756	Eufriesea mexicana Annotation Release 100	ASM148370v1	Rapid 2022-08	ASM148370v1	
+543639	Dermacentor silvarum Annotation Release 101	BIME_Dsil_1.4	Rapid 2023-04	BIME_Dsil_1.4	
+546530	Nerophis lumbriciformis Annotation Release 100	RoL_Nlum_1.0	Rapid 2024-05	RoL_Nlum_1.0	
+586833	Myripristis murdjan Annotation Release 100	fMyrMur1.1	112	fMyrMur1.1	
+591936	Piliocolobus tephrosceles Annotation Release 101	ASM277652v2	98	ASM277652v2	20191008
+597456	Habropoda laboriosa Annotation Release 100	ASM126327v1	Rapid 2022-07	ASM126327v1	
+610380	Harpegnathos saltator Annotation Release 102	Hsal_v8.5	Rapid 2022-07	Hsal_v8.6	
+680683	Amyelois transitella Annotation Release 100	ASM118610v1	Rapid 2022-10	ASM118610v1	20230215
+684658	Aphidius gifuensis Annotation Release 100	ASM1490517v1	Rapid 2021-12	ASM1490517v1	
+685728	Pristis pectinata Annotation Release 100	sPriPec2.1.pri	Rapid 2023-10	sPriPec2.1.pri	
+693459	Phycodurus eques Annotation Release 100	UOR_Pequ_1.1	Rapid 2024-02	UOR_Pequ_1.1	
+723540	Mobula hypostoma Annotation Release 100	sMobHyp1.1	Rapid 2024-04	sMobHyp1.1	
+742174	Melanaphis sacchari Annotation Release 100	SCAv2.0	Rapid 2023-08	SCAv2.0	
+743375	Polistes dominula Annotation Release 100	Pdom r1.2	Rapid 2022-11	Pdom r1.2	
+885580	Fukomys damarensis Annotation Release 101	DMR_v1.0	99	DMR_v1.0	20200312
+932674	Corvus cornix cornix Annotation Release 104	ASM73873v5	Rapid 2023-10	ASM73873v6	
+933992	Chanodichthys erythropterus Annotation Release 100	ASM2448905v1	Rapid 2024-01	ASM2448905v1	
+935657	Colletes gigas Annotation Release 100	ASM1312311v1	Rapid 2021-11	ASM1312311v1	
+941984	Toxotes jaculatrix Annotation Release 100	fToxJac2.pri	Rapid 2022-03	fToxJac2.pri	
+992332	Triplophysa rosa Annotation Release 100	Trosa_1v2	Rapid 2024-05	Trosa_1v2	
+1026970	Nannospalax galili Annotation Release 102	S.galili_v1.0	112	S.galili_v1.0	
+1035111	Leguminivora glycinivorella Annotation Release 100	LegGlyc_1.1	Rapid 2022-09	LegGlyc_1.1	
+1047088	Arvicola amphibius Annotation Release 101	mArvAmp1.2	Rapid 2022-05	mArvAmp1.2	
+1086592	Cataglyphis hispanica Annotation Release 100	ULB_Chis1_1.0	Rapid 2023-04	ULB_Chis1_1.0	
+1100963	Cydia splendana Annotation Release 100	ilCydSple1.2	Rapid 2023-07	ilCydSple1.2	
+1100964	Cydia strobilella Annotation Release 100	ilCydStro3.1	Rapid 2023-07	ilCydStro3.1	
+1142201	Danio aesculapii Annotation Release 100	fDanAes4.1	Rapid 2023-06	fDanAes4.1	
+1163345	Diorhabda carinulata Annotation Release 100	icDioCari1.1	Rapid 2024-01	icDioCari1.1	
+1163346	Diorhabda sublineata Annotation Release 100	icDioSubl1.1	Rapid 2024-01	icDioSubl1.1	
+1192867	0	 	Rapid 2023-10	KIZ_Lrid_1.0	
+1196302	Corvus moneduloides Annotation Release 100	bCorMon1.pri	112	bCorMon1.pri	
+1203425	Notolabrus celidotus Annotation Release 100	fNotCel1.pri	Rapid 2020-06	fNotCel1.pri	
+1232801	Amphibalanus amphitrite Annotation Release 100	NRLGWU_Aamphi_draft	Rapid 2022-03	NRLGWU_Aamphi_draft	
+1234273	Tachysurus fulvidraco Annotation Release 101	HZAU_PFXX_2.0	Rapid 2024-01	HZAU_PFXX_2.0	
+1250792	Melanotaenia boesemani Annotation Release 100	fMelBoe1.pri	Rapid 2021-03	fMelBoe1.pri	
+1294199	Eurytemora carolleeae Annotation Release 100	Eaff_2.0	Rapid 2022-03	Eaff_2.0	20220509
+1437191	Osmia bicornis bicornis Annotation Release 101	iOsmBic2.1	Rapid 2021-11	iOsmBic2.1	
+1458189	Cydia fagiglandana Annotation Release 100	ilCydFagi1.1	Rapid 2024-04	ilCydFagi1.1	
+1486046	Drosophila subpulchrella Annotation Release 100	RU_Dsub_v1.1	Rapid 2023-02	RU_Dsub_v1.1	
+1496333	Anopheles maculipalpis Annotation Release 100	idAnoMacuDA_375_x	Rapid 2022-12	idAnoMacuDA_375_x	
+1518534	Anopheles coluzzii Annotation Release 101	AcolN3	Rapid AcolN3	AcolN3	
+1521116	Anopheles marshallii Annotation Release 100	idAnoMarsDA_429_01	Rapid 2022-12	idAnoMarsDA_429_01	
+1529436	Anneissia japonica Annotation Release 100	ASM1163010v1	Rapid 2021-12	ASM1163010v1	
+1582913	Triplophysa dalaica Annotation Release 100	ASM1584641v1	Rapid 2023-07	ASM1584641v1	
+1606681	Puntigrus tetrazona Annotation Release 100	ASM1883169v1	Rapid 2024-03	ASM1883169v1	
+1608454	Sinocyclocheilus anshuiensis Annotation Release 100	SAMN03320099.WGS_v1.1	112	SAMN03320099.WGS_v1.1	
+1676925	Paramormyrops kingsleyae Annotation Release 100	PKINGS_0.1	112	PKINGS_0.1	
+1686743	Oppia nitens Annotation Release 100	nextdenovo-longstitch-racon4-pilon3	Rapid 2023-04	nextdenovo-longstitch-racon4-pilon3	
+1735272	Gigantopelta aegis Annotation Release 100	Gae_host_genome	Rapid 2021-12	Gae_host_genome	
+1778380	0	 	Rapid 2024-02	Gnip_1.0	
+1825980	Gopherus evgoodei Annotation Release 100	rGopEvg1_v1.p	112	rGopEvg1_v1.p	
+1841481	Seriola lalandi dorsalis Annotation Release 100	Sedor1	112	Sedor1	
+1868482	Carlito syrichta Annotation Release 101	Tarsius_syrichta-2.0.1	112	Tarsius_syrichta-2.0.1	
+2015173	Ooceraea biroi Annotation Release 100	Obir_v5.4	Rapid 2021-12	Obir_v5.4	
+2023355	Schistocerca serialis cubense Annotation Release 100	iqSchSeri2.2	Rapid 2023-03	iqSchSeri2.2	
+2059687	Pseudoliparis swirei Annotation Release 100	NWPU_hadal_v1	Rapid 2024-04	NWPU_hadal_v1	
+2498891	Topomyia yanbarensis Annotation Release 100	ASM3024719v1	Rapid 2024-01	ASM3024719v1	
+2546036	Lampris incognitus Annotation Release 100	fLamInc1.hap2	Rapid 2023-09	fLamInc1.hap2	
+2587831	Terrapene triunguis Annotation Release 102	T_m_triunguis-2.0	112	T_m_triunguis-2.0	
+2589382	Watersipora subatra Annotation Release 100	tzWatSuba1.1	Rapid 2023-11	tzWatSuba1.1	
+2607531	Octopus sinensis Annotation Release 101	ASM634580v1	Rapid 2022-03	ASM634580v1	
+2652724	Exaiptasia diaphana Annotation Release 101	Aiptasia genome 1.1	Rapid 2022-03	Aiptasia genome 1.1	
+2705178	Bombus vancouverensis nearcticus Annotation Release 100	Bvanc_JDL1245	Rapid 2021-11	Bvanc_JDL1245	
+2715852	Cebus imitator Annotation Release 101	Cebus_imitator-1.0	112	Cebus_imitator-1.0	
+2746895	Balaenoptera ricei Annotation Release 100	mBalRic1.hap2	Rapid 2024-06	mBalRic1.hap2	
+2784310	Magallana angulata Annotation Release 100	ASM2561291v2	Rapid 2023-04	ASM2561291v2	
+2871759	Seriola aureovittata Annotation Release 100	ASM2101889v1	Rapid 2024-03	ASM2101889v1	
+2921223	Anthonomus grandis grandis Annotation Release 100	icAntGran1.3	Rapid 2022-09	icAntGran1.3	
+2943436	Paramacrobiotus metropolitanus Annotation Release 100	Prichtersi_v1.0	Rapid 2023-08	Prichtersi_v1.0	
+2961670	Neodiprion virginianus Annotation Release 100	iyNeoVirg1.1	Rapid 2022-08	iyNeoVirg1.1	
+3119969	Bubalus kerabau Annotation Release 100	PCC_UOA_SB_1v2	Rapid 2023-08	PCC_UOA_SB_1v2	
